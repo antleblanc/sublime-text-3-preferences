@@ -1,20 +1,20 @@
 {
-	"files":
-	{
-		"Animate.css": "https://raw.github.com/daneden/animate.css/master/animate.css",
-		"Normalize.css": "https://github.com/necolas/normalize.css/blob/master/normalize.css",
-		"jQuery": "http://code.jquery.com/jquery.min.js"
-	},
-	"packages":
-	{
-		"Bootstrap 3.2.0": "https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.zip",
-		"Font Awesome 4.1.0": "http://fortawesome.github.io/Font-Awesome/assets/font-awesome-4.1.0.zip",
-		"Google Web Starter Kit (Beta)": "https://github.com/google/web-starter-kit/zipball/master",
-		"HMTL5 Boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
-		"HMTL5 Mobile Boilerplate": "https://github.com/h5bp/mobile-boilerplate/zipball/master",
-		"WordPress (EN)": "http://wordpress.org/latest.zip",
-		"WordPress (FR)": "http://fr.wordpress.org/latest-fr_FR.zip",
-		"Zurb Foundation 5.3.3": "http://foundation.zurb.com/cdn/releases/foundation-5.3.3.zip",
-		"Zurb Ink 1.0.5": "https://github.com/zurb/ink/zipball/master"
-	}
+    "files":
+    {
+        "Animate.css": "https://raw.github.com/daneden/animate.css/master/animate.css",
+        "Normalize.css": "https://github.com/necolas/normalize.css/blob/master/normalize.css",
+        "jQuery": "http://code.jquery.com/jquery.min.js"
+    },
+    "packages":
+    {
+        "Bootstrap 3.2.0": "https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.zip",
+        "Font Awesome 4.1.0": "http://fortawesome.github.io/Font-Awesome/assets/font-awesome-4.1.0.zip",
+        "Google Web Starter Kit (Beta)": "https://github.com/google/web-starter-kit/zipball/master",
+        "HMTL5 Boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+        "HMTL5 Mobile Boilerplate": "https://github.com/h5bp/mobile-boilerplate/zipball/master",
+        "WordPress (EN)": "http://wordpress.org/latest.zip",
+        "WordPress (FR)": "http://fr.wordpress.org/latest-fr_FR.zip",
+        "Zurb Foundation 5.3.3": "http://foundation.zurb.com/cdn/releases/foundation-5.3.3.zip",
+        "Zurb Ink 1.0.5": "https://github.com/zurb/ink/zipball/master"
+    }
 }
