@@ -8,7 +8,7 @@
   * [Installation](#installation)
   * [Packages](#packages)
   * [Shortcuts](#shortcuts)
-  * [Screenshoots](#screenshoots)
+  * [Screenshots](#screenshots)
   * [License](#license)
 
 
@@ -64,9 +64,9 @@ Depending on your OS platform, install preferences in those following folders
  * `Ctrl+Alt+F` -- Fetch command (**Nettuts+ Fetch**)
 
 
-## Screenshoots
-![alt text](http://github.com/antleblanc/sublime-text-3-preferences/blob/master/screenshots/1.png)
-![alt text](http://github.com/antleblanc/sublime-text-3-preferences/blob/master/screenshots/2.png)
+## Screenshots
+![alt text](https://raw.githubusercontent.com/antleblanc/sublime-text-3-preferences/master/screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/antleblanc/sublime-text-3-preferences/master/screenshots/2.png)
 
 
 ## Todo
