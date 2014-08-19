@@ -1,4 +1,4 @@
 [
-    // Nettuts Fetch
-    { "keys": ["ctrl+alt+f"], "command": "fetch" }
+	// Nettuts Fetch
+	{ "keys": ["ctrl+alt+f"], "command": "fetch" }
 ]
