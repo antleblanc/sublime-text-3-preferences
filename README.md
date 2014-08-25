@@ -61,7 +61,7 @@ Depending on your OS platform, install preferences in those following folders
 
 
 ## Shortcuts
- * `Ctrl+Alt+F` -- Fetch command (**Nettuts+ Fetch**)
+ * <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> -- Fetch command (**Nettuts+ Fetch**)
 
 
 ## Screenshots
