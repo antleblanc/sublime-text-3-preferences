@@ -61,12 +61,12 @@ Depending on your OS platform, install preferences in those following folders
 
 
 ## Shortcuts
- * <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> -- Fetch command (**Nettuts+ Fetch**)
+ * <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> (Windows) -- Fetch command (**Nettuts+ Fetch**)
 
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/antleblanc/sublime-text-3-preferences/master/screenshots/1.png)
-![alt text](https://raw.githubusercontent.com/antleblanc/sublime-text-3-preferences/master/screenshots/2.png)
+![Capture OS X #1](screenshots/os-x-1.png)
+![Capture OS X #2](screenshots/os-x-2.png)
 
 
 ## Todo
