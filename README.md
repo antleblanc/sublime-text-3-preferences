@@ -73,7 +73,6 @@ Depending on your OS platform, install preferences in those following folders
 
  + [Package Control - Syncing](https://sublime.wbond.net/docs/syncing)
 
-
 ## Todo
 
  * Add Shortcuts
