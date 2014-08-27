@@ -69,7 +69,7 @@ Depending on your OS platform, install preferences in those following folders
 ![Capture OS X #1](screenshots/os-x-1.png)
 ![Capture OS X #2](screenshots/os-x-2.png)
 
-## Ressource
+## Ressources
 
  + [Package Control - Syncing](https://sublime.wbond.net/docs/syncing)
 
