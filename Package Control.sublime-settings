@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -8,6 +16,7 @@
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"Dayle Rees Color Schemes",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
@@ -15,17 +24,16 @@
 		"Grunt",
 		"Gulp",
 		"Jade",
-		"Liquid",
 		"LiveStyle",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
-		"Origami",
+		"Package Control",
 		"PHP-Twig",
 		"PlainTasks",
 		"Predawn",
 		"SCSS",
 		"SFTP",
-		"Smarty",
-		"SublimeLinter"
+		"Siteleaf Liquid Syntax",
+		"Smarty"
 	]
 }

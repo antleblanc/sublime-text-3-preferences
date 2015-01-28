@@ -9,7 +9,7 @@
 - [Packages](#packages)
 - [Shortcuts](#shortcuts)
 - [Screenshots](#screenshots)
-- [Ressources](#ressources)
+- [Resources](#resources)
 - [License](#license)
 
 ## Requirement
@@ -43,20 +43,17 @@ Depending on your OS platform, install preferences in those following folders
 - [Grunt](https://sublime.wbond.net/packages/Grunt)
 - [Gulp](https://sublime.wbond.net/packages/Gulp)
 - [Jade](https://sublime.wbond.net/packages/Jade)
-- [Liquid](https://sublime.wbond.net/packages/Liquid)
-  - ~~[LiveReload](https://sublime.wbond.net/packages/LiveReload)~~ (Prefer using task runner like [Grunt](http://gruntjs.com) or a streaming build system [Gulp](http://gulpjs.com))
 - [LiveStyle](https://sublime.wbond.net/packages/LiveStyle)
 - [Markdown Preview](https://sublime.wbond.net/packages/Markdown%20Preview)
 - [Nettuts+ Fetch](https://sublime.wbond.net/packages/Nettuts%2B%20Fetch)
-- [Origami](https://sublime.wbond.net/packages/Origami)
 - [Package Control](https://sublime.wbond.net/packages/Package%20Control)
 - [PHP-Twig](https://sublime.wbond.net/packages/PHP-Twig)
 - [PlainTasks](https://sublime.wbond.net/packages/PlainTasks)
 - [Predawn](https://sublime.wbond.net/packages/Predawn)
 - [SCSS](https://sublime.wbond.net/packages/SCSS)
 - [SFTP](https://sublime.wbond.net/packages/SFTP)
+- [Siteleaf Liquid Syntax](https://packagecontrol.io/packages/Siteleaf%20Liquid%20Syntax)
 - [Smarty](https://sublime.wbond.net/packages/Smarty)
-- [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter)
 
 ## Shortcuts
 
@@ -69,7 +66,7 @@ Depending on your OS platform, install preferences in those following folders
 ![Capture OS X #1](screenshots/os-x-1.png)
 ![Capture OS X #2](screenshots/os-x-2.png)
 
-## Ressources
+## Resources
 
 - [Package Control - Syncing](https://sublime.wbond.net/docs/syncing)
 
