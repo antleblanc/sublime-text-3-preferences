@@ -1,5 +1,8 @@
 *.cache
 *.tmTheme
+*.merged-ca-bundle
+*.system-ca-bundle
+*.user-ca-bundle
 Color Highlighter
 Package Control.last-run
-ressources
+resources

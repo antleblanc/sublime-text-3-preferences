@@ -54,6 +54,8 @@ Depending on your OS platform, install preferences in those following folders
 - [SFTP](https://sublime.wbond.net/packages/SFTP)
 - [Siteleaf Liquid Syntax](https://packagecontrol.io/packages/Siteleaf%20Liquid%20Syntax)
 - [Smarty](https://sublime.wbond.net/packages/Smarty)
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3)
+- [SublimeLinter-jscs](https://github.com/SublimeLinter/SublimeLinter-jscs)
 
 ## Shortcuts
 
