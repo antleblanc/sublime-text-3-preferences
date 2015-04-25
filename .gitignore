@@ -1,8 +1,17 @@
-*.cache
-*.tmTheme
-*.merged-ca-bundle
-*.system-ca-bundle
-*.user-ca-bundle
-Color Highlighter
+# Package Control
 Package Control.last-run
-resources
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+Package Control.cache/
+Package Control.ca-certs/
+
+# Color HiHighlighter
+Color Highlighter/
+
+# SublimeLinter
+SublimeLinter/
+
+bh_unicode_properties.cache

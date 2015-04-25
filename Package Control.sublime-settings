@@ -15,10 +15,13 @@
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
+		"FTPSync",
 		"GitGutter",
 		"Grunt",
 		"Gulp",
 		"Jade",
+		"JSCS-Formatter",
+		"LESS",
 		"LiveStyle",
 		"Markdown Preview",
 		"Nettuts+ Fetch",
@@ -27,10 +30,12 @@
 		"PlainTasks",
 		"Predawn",
 		"SCSS",
-		"SFTP",
 		"Siteleaf Liquid Syntax",
 		"Smarty",
 		"SublimeLinter",
-		"SublimeLinter-jscs"
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint"
 	]
 }
