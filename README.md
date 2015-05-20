@@ -8,13 +8,13 @@
 - [Installation](#installation)
 - [Packages](#packages)
 - [Shortcuts](#shortcuts)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [Resources](#resources)
 - [License](#license)
 
 ## Requirement
 
-You need to install [Package Control](https://sublime.wbond.net/installation).
+You need to install [Package Control](https://packagecontrol.io/installation).
 
 ## Installation
 
@@ -24,9 +24,8 @@ git clone https://github.com/antleblanc/sublime-text-3-preferences.git
 
 Depending on your OS platform, install preferences in those following folders
 
-**Windows** : ```%USERPROFILE%\AppData\Roaming\Sublime Text 3\Packages\User```
-
-**Mac OS X** : ```~/Library/Application Support/Sublime Text 3/Packages/User```
+**Windows** : `%USERPROFILE%\AppData\Roaming\Sublime Text 3\Packages\User`  
+**Mac OS X** : `~/Library/Application Support/Sublime Text 3/Packages/User`
 
 ## Packages
 
@@ -36,22 +35,24 @@ Depending on your OS platform, install preferences in those following folders
 - [AutoFileName](https://packagecontrol.io/packages/AutoFileName)
 - [Autoprefixer](https://packagecontrol.io/packages/Autoprefixer)
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
+- [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
 - [Emmet](https://packagecontrol.io/packages/Emmet)
-- [FTPSync](https://packagecontrol.io/packages/FTPSync)
 - [GitGutter](https://packagecontrol.io/packages/GitGutter)
 - [Grunt](https://packagecontrol.io/packages/Grunt)
 - [Gulp](https://packagecontrol.io/packages/Gulp)
 - [Jade](https://packagecontrol.io/packages/Jade)
+- [JSCS-Formatter](https://packagecontrol.io/packages/JSCS-Formatter)
+- [LESS](https://packagecontrol.io/packages/LESS)
 - [LiveStyle](https://packagecontrol.io/packages/LiveStyle)
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 - [Nettuts+ Fetch](https://packagecontrol.io/packages/Nettuts%2B%20Fetch)
 - [Package Control](https://packagecontrol.io/packages/Package%20Control)
 - [PHP-Twig](https://packagecontrol.io/packages/PHP-Twig)
 - [PlainTasks](https://packagecontrol.io/packages/PlainTasks)
-- [Predawn](https://packagecontrol.io/packages/Predawn)
 - [SCSS](https://packagecontrol.io/packages/SCSS)
+- [Seti_UI](https://packagecontrol.io/packages/Seti_UI)
 - [Siteleaf Liquid Syntax](https://packagecontrol.io/packages/Siteleaf%20Liquid%20Syntax)
 - [Smarty](https://packagecontrol.io/packages/Smarty)
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
@@ -66,10 +67,9 @@ Depending on your OS platform, install preferences in those following folders
 | ---------------- | --------------- | ---------------- | ------------- |
 | Ctrl+Alt+F       | n/a             | n/a              | fetch command |
 
-## Screenshots
+## Screenshot
 
-![Capture OS X #1](screenshots/os-x-1.png)
-![Capture OS X #2](screenshots/os-x-2.png)
+![Capture OS X](screenshots/os-x.png)
 
 ## Resources
 

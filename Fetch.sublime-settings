@@ -1,19 +1,13 @@
 {
 	"files":
 	{
-		"Animate.css": "https://raw.github.com/daneden/animate.css/master/animate.css",
+		"Animate.css": "https://github.com/daneden/animate.css/blob/master/animate.css",
 		"Normalize.css": "https://github.com/necolas/normalize.css/blob/master/normalize.css",
-		"jQuery": "http://code.jquery.com/jquery.min.js"
+		"jQuery": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.js"
 	},
 	"packages":
 	{
-		"Bootstrap 3.2.0": "https://github.com/twbs/bootstrap/releases/download/v3.2.0/bootstrap-3.2.0-dist.zip",
-		"Font Awesome 4.2.0": "https://github.com/FortAwesome/Font-Awesome/archive/v4.2.0.zip",
-		"HMTL5 Boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
-		"HMTL5 Mobile Boilerplate": "https://github.com/h5bp/mobile-boilerplate/zipball/master",
 		"WordPress (EN)": "http://wordpress.org/latest.zip",
-		"WordPress (FR)": "http://fr.wordpress.org/latest-fr_FR.zip",
-		"Zurb Foundation 5.4.0": "https://github.com/zurb/foundation/archive/v5.4.zip",
-		"Zurb Ink 1.0.5": "https://github.com/zurb/ink/zipball/master"
+		"WordPress (FR)": "http://fr.wordpress.org/latest-fr_FR.zip"
 	}
 }

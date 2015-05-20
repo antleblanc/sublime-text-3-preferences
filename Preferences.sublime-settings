@@ -1,10 +1,45 @@
 {
+	"Seti_no_bar_undertabs": true,
+	"Seti_no_blue_bar": true,
+	"Seti_rainbow": true,
+	"Seti_sb_tree_small": false,
+	"Seti_tabs_small": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
 	"default_line_ending": "unix",
+	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-	"findreplace_small": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -12,18 +47,17 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"margin": 4,
 	"rulers":
 	[
 		80
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"sidebar_xlarge": true,
-	"tabs_small": true,
-	"theme": "predawn.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
