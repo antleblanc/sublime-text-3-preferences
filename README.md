@@ -10,11 +10,29 @@
 - [Shortcuts](#shortcuts)
 - [Screenshot](#screenshot)
 - [Resources](#resources)
-- [License](#license)
 
 ## Requirement
 
-You need to install [Package Control](https://packagecontrol.io/installation).
+First you need to install [Package Control](https://packagecontrol.io/installation).
+
+### System requirement
+
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org)
+- [Ruby](https://www.ruby-lang.org)
+
+#### Node modules
+
+- [grunt-cli](https://www.npmjs.com/package/grunt-cli)
+- [gulp](https://www.npmjs.com/package/gulp)
+- [bootlint](https://www.npmjs.com/package/bootlint)
+- [csslint](https://www.npmjs.com/package/csslint)
+- [jscs](https://www.npmjs.com/package/jscs)
+- [jshint](https://www.npmjs.com/package/jshint)
+
+#### Ruby gem
+
+- [scss_lint](https://rubygems.org/gems/scss_lint)
 
 ## Installation
 
@@ -25,7 +43,7 @@ git clone https://github.com/antleblanc/sublime-text-3-preferences.git
 Depending on your OS platform, install preferences in those following folders
 
 **Windows** : `%USERPROFILE%\AppData\Roaming\Sublime Text 3\Packages\User`  
-**Mac OS X** : `~/Library/Application Support/Sublime Text 3/Packages/User`
+**OS X** : `~/Library/Application Support/Sublime Text 3/Packages/User`
 
 ## Packages
 
@@ -36,6 +54,7 @@ Depending on your OS platform, install preferences in those following folders
 - [Autoprefixer](https://packagecontrol.io/packages/Autoprefixer)
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 - [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
+- [ColorPicker](https://packagecontrol.io/packages/ColorPicker)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
 - [Emmet](https://packagecontrol.io/packages/Emmet)
@@ -56,16 +75,20 @@ Depending on your OS platform, install preferences in those following folders
 - [Siteleaf Liquid Syntax](https://packagecontrol.io/packages/Siteleaf%20Liquid%20Syntax)
 - [Smarty](https://packagecontrol.io/packages/Smarty)
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
+- [SublimeLinter-contrib-bootlint](https://packagecontrol.io/packages/SublimeLinter-contrib-bootlint)
 - [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
 - [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)
 - [SublimeLinter-jscs](https://packagecontrol.io/packages/SublimeLinter-jscs)
 - [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
+- [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
+- [SublimeLinter-phpcs](https://packagecontrol.io/packages/SublimeLinter-phpcs)
 
 ## Shortcuts
 
 | Windows          | OS X            | GNU/Linux        | Description   |
 | ---------------- | --------------- | ---------------- | ------------- |
-| Ctrl+Alt+F       | n/a             | n/a              | fetch command |
+| ctrl+alt+f       | n/a             | n/a              | fetch command |
+| ctrl+shift+c     | cmd+shift+c     | ctrl+shift+c     | colorpicker   |
 
 ## Screenshot
 
@@ -73,14 +96,12 @@ Depending on your OS platform, install preferences in those following folders
 
 ## Resources
 
-- [Package Control - Syncing](https://sublime.wbond.net/docs/syncing)
+- [Package Control - Syncing](https://packagecontrol.io/docs/syncing)
 
 ## Todo
 
-- Add Shortcuts
 - Add Snippets
 - Add sublime-keymap for OS X and GNU/Linux
-- Documentation
 
 ## License
 

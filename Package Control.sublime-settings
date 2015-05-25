@@ -11,6 +11,7 @@
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"ColorPicker",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
@@ -31,9 +32,12 @@
 		"Siteleaf Liquid Syntax",
 		"Smarty",
 		"SublimeLinter",
+		"SublimeLinter-contrib-bootlint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jscs",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs"
 	]
 }
