@@ -1,8 +1,7 @@
 {
 	"files":
 	{
-		"Animate.css": "https://github.com/daneden/animate.css/blob/master/animate.css",
-		"Normalize.css": "https://github.com/necolas/normalize.css/blob/master/normalize.css",
+		"Normalize.css": "https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css",
 		"jQuery": "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.js"
 	},
 	"packages":

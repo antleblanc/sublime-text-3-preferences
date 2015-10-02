@@ -1,4 +1,7 @@
-# Package Control
+# ----------------------------------------------------------------------
+# | Package Control                                                    |
+# ----------------------------------------------------------------------
+
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle
@@ -8,10 +11,16 @@ Package Control.user-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
 
-# Color HiHighlighter
+
+# ----------------------------------------------------------------------
+# | Color Highlighter                                                  |
+# ----------------------------------------------------------------------
+
 Color Highlighter/
 
-# SublimeLinter
-SublimeLinter/
 
-bh_unicode_properties.cache
+# ----------------------------------------------------------------------
+# | SublimeLinter                                                      |
+# ----------------------------------------------------------------------
+
+SublimeLinter/

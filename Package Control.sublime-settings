@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,9 +10,9 @@
 		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"Autoprefixer",
+		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
-		"ColorPicker",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
@@ -19,25 +20,19 @@
 		"Grunt",
 		"Gulp",
 		"Jade",
-		"JSCS-Formatter",
-		"LESS",
-		"LiveStyle",
 		"Markdown Preview",
+		"Material Theme",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"PHP-Twig",
 		"PlainTasks",
 		"SCSS",
 		"Seti_UI",
-		"Siteleaf Liquid Syntax",
 		"Smarty",
 		"SublimeLinter",
-		"SublimeLinter-contrib-bootlint",
 		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-contrib-xo",
 		"SublimeLinter-csslint",
-		"SublimeLinter-jscs",
-		"SublimeLinter-jshint",
-		"SublimeLinter-php",
-		"SublimeLinter-phpcs"
+		"SublimeLinter-php"
 	]
 }

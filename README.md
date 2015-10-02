@@ -25,10 +25,7 @@ First you need to install [Package Control](https://packagecontrol.io/installati
 
 - [grunt-cli](https://www.npmjs.com/package/grunt-cli)
 - [gulp](https://www.npmjs.com/package/gulp)
-- [bootlint](https://www.npmjs.com/package/bootlint)
 - [csslint](https://www.npmjs.com/package/csslint)
-- [jscs](https://www.npmjs.com/package/jscs)
-- [jshint](https://www.npmjs.com/package/jshint)
 
 #### Ruby gem
 
@@ -37,7 +34,7 @@ First you need to install [Package Control](https://packagecontrol.io/installati
 ## Installation
 
 ```sh
-git clone https://github.com/antleblanc/sublime-text-3-preferences.git
+$ git clone https://github.com/antleblanc/sublime-text-3-preferences.git
 ```
 
 Depending on your OS platform, install preferences in those following folders
@@ -54,7 +51,6 @@ Depending on your OS platform, install preferences in those following folders
 - [Autoprefixer](https://packagecontrol.io/packages/Autoprefixer)
 - [BracketHighlighter](https://packagecontrol.io/packages/BracketHighlighter)
 - [Color Highlighter](https://packagecontrol.io/packages/Color%20Highlighter)
-- [ColorPicker](https://packagecontrol.io/packages/ColorPicker)
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
 - [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
 - [Emmet](https://packagecontrol.io/packages/Emmet)
@@ -62,9 +58,6 @@ Depending on your OS platform, install preferences in those following folders
 - [Grunt](https://packagecontrol.io/packages/Grunt)
 - [Gulp](https://packagecontrol.io/packages/Gulp)
 - [Jade](https://packagecontrol.io/packages/Jade)
-- [JSCS-Formatter](https://packagecontrol.io/packages/JSCS-Formatter)
-- [LESS](https://packagecontrol.io/packages/LESS)
-- [LiveStyle](https://packagecontrol.io/packages/LiveStyle)
 - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 - [Nettuts+ Fetch](https://packagecontrol.io/packages/Nettuts%2B%20Fetch)
 - [Package Control](https://packagecontrol.io/packages/Package%20Control)
@@ -72,14 +65,10 @@ Depending on your OS platform, install preferences in those following folders
 - [PlainTasks](https://packagecontrol.io/packages/PlainTasks)
 - [SCSS](https://packagecontrol.io/packages/SCSS)
 - [Seti_UI](https://packagecontrol.io/packages/Seti_UI)
-- [Siteleaf Liquid Syntax](https://packagecontrol.io/packages/Siteleaf%20Liquid%20Syntax)
 - [Smarty](https://packagecontrol.io/packages/Smarty)
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
-- [SublimeLinter-contrib-bootlint](https://packagecontrol.io/packages/SublimeLinter-contrib-bootlint)
 - [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
 - [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)
-- [SublimeLinter-jscs](https://packagecontrol.io/packages/SublimeLinter-jscs)
-- [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
 - [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
 - [SublimeLinter-phpcs](https://packagecontrol.io/packages/SublimeLinter-phpcs)
 
@@ -87,8 +76,7 @@ Depending on your OS platform, install preferences in those following folders
 
 | Windows          | OS X            | GNU/Linux        | Description   |
 | ---------------- | --------------- | ---------------- | ------------- |
-| ctrl+alt+f       | n/a             | n/a              | fetch command |
-| ctrl+shift+c     | cmd+shift+c     | ctrl+shift+c     | colorpicker   |
+| ctrl+alt+f       | alt+shift+f     | n/a              | fetch command |
 
 ## Screenshot
 
@@ -97,11 +85,6 @@ Depending on your OS platform, install preferences in those following folders
 ## Resources
 
 - [Package Control - Syncing](https://packagecontrol.io/docs/syncing)
-
-## Todo
-
-- Add Snippets
-- Add sublime-keymap for OS X and GNU/Linux
 
 ## License
 
