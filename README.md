@@ -88,4 +88,4 @@ Depending on your OS platform, install preferences in those following folders
 
 ## License
 
-MIT © [Antoine Leblanc](https://antleblanc.me)
+MIT © [Antoine Leblanc](https://antleblanc.com)
